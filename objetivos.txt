@@ -1,1 +1,3 @@
-
+Objetivo 1: Aprender a crear mi propia aplicacion.
+Objetivo 2: Aprender a maquetar una pagina web.
+Objetivo 3: Aprender a manejar un servidor
